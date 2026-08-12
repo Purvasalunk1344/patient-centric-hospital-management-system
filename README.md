@@ -178,4 +178,4 @@ fn_generate_bill(patient_id, admission_id, appt_id)
 
 ---
 
-*DBMS Course Project — MySQL · Node.js · React*
+*DBMS Course Project — MySQL · Node.js · Html . CSS . JavaScript*

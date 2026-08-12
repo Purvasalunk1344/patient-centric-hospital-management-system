@@ -1,0 +1,47 @@
+### Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+### Environment
+.env
+.env.*
+
+### Logs
+logs/
+*.log
+
+### OS files
+.DS_Store
+Thumbs.db
+
+### Editor/IDE
+.vscode/
+.idea/
+
+### Python
+__pycache__/
+*.py[cod]
+*.pyo
+env/
+venv/
+ENV/
+
+### Build / coverage
+dist/
+build/
+coverage/
+*.egg-info/
+
+### Frontend build
+frontend/build/
+
+### Misc
+.nyc_output/
+*.sqlite3
+*.db
+
+# Keep lockfiles
+# package-lock.json
+# yarn.lock
